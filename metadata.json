@@ -1,0 +1,6 @@
+{
+  "name": "NAVA-NEGAR",
+  "description": "A vintage Persian manuscript and calligraphy-inspired music and podcast social anthology with P2P listening lobbies, encrypted direct messages, and interactive dossiers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
